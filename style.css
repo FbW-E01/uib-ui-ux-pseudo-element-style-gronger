@@ -1,0 +1,8 @@
+li::before {
+    content: open-quote;
+}
+
+li::after {
+    content: close-quote;
+}
+
